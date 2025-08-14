@@ -9,7 +9,7 @@ const shipmentData = {
         { date: "2025-08-11", location: "Brussels, Belgium", event: "Processed at facility" },
         { date: "2025-08-12", location: "Leipzig, Germany", event: "Departed DHL office" },
         { date: "2025-08-13", location: "Shanghai, China", event: "Arrived at destination facility - Pending customs clearance" }
-    ]
+    ]i
 };
 
 function trackPackage() {
